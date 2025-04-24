@@ -1,0 +1,83 @@
+body {
+    background-color: rgb(64,68,75);
+    color: white;
+    font-family: sans-serif;
+    font-size: 22pt;
+}
+
+h1 {
+    text-align: center;
+}
+
+h2 {
+    text-align: center;
+}
+
+a {
+    color: rgb(255, 251, 25);
+}
+
+
+p {
+    color: rgb(123, 218, 255);
+    font-style: italic;
+}
+
+span {
+    content: "\221A";
+}
+
+img {
+    height: 300px;
+    border-radius: 10px;
+}
+
+li {
+    margin-bottom: 22pt;
+}
+
+.wichtig {
+    color: rgb(94, 0, 0);
+    font-weight: bold;
+    font-style: normal;
+}
+
+.variable {
+    color: rgb(255, 255, 121);
+    display: inline;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.antwort {
+    font-family: sans-serif;
+    font-style: italic;
+}
+
+.richtig {
+    color: rgb(72, 253, 72);
+}
+
+.falsch {
+    color: rgb(255, 0, 85);
+}
+
+.freshField {
+    width: 20%;
+    height: 50px;
+    font-size: 23pt;
+    border-radius: 5px;
+    border-style: groove;
+
+    background-color: rgb(255, 255, 255);
+}
+
+
+.cleanbtn {
+    background-color: black;
+    color: white;
+    height: 100px;
+    width: 200px;
+    font-size: 25pt;
+    border-radius: 10px;
+}
